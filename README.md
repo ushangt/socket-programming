@@ -2,7 +2,7 @@
 Simple chat room implementation using sockets in Python
 
 Run the server:
-`python server.py -sp 9090 runs the server on port 9090`
+`python server.py -sp 9090` runs the server on port 9090
 
 Output:
 Server Initialized... 
