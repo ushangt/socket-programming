@@ -13,9 +13,9 @@ Run the client(s):
 `python client.py -sip server-ip -sp 9090`
 
 Send a Message:
-> Hello World! 
+` > Hello World! `
 
 Receive a Message:
-> <From w.x.y.z:aa>: Hello World! 
+` <From w.x.y.z:aa>: Hello World! `
 
 Every client connected to the server sees this, where w.x.y.z:aa is the sender's ip address and port.
